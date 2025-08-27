@@ -3,7 +3,7 @@
 
 This project is a simple sidebar navigation built using HTML and CSS. It provides quick access to sections like Gallery, Shortcuts, Exhibits, Events, Store, Contact and Feedback in a visually appealing layout with a background image.
 
-It is a practice project for learning HTML and CSS styling can be used as a base layout for websites.
+It is a practice project for learning HTML and CSS styling and can be used as a base layout for websites.
 
 
 ## Screenshot
@@ -44,7 +44,7 @@ CSS3 → for styling, layout, background image, and hover effects
 
 ## Feedback
 
-Still experimenting and open to ideas.
+Still experimenting and open to ideas!
 
 If you spot something I could improve, feel free to share your thoughts here:
 
