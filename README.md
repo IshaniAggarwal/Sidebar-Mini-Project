@@ -8,7 +8,7 @@ It is a practice project for learning HTML and CSS styling can be used as a base
 
 ## Screenshot
 
-![Screenshot]("C:\Users\ishan\OneDrive\Pictures\Screenshots\Sidebar screenshot.png")
+![Project Screenshot]("screenshot.png")
 
 
 ## Features
