@@ -8,7 +8,7 @@ It is a practice project for learning HTML and CSS styling can be used as a base
 
 ## Screenshot
 
-![Sidebar Screenshot](screenshot.png)
+![Sidebar Screenshot](Screenshot.png)
 
 
 ## Features
