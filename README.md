@@ -15,23 +15,23 @@ It is a practice project for learning HTML and CSS styling can be used as a base
 
 
 
--Sidebar layout built with pure HTML and CSS
+- Sidebar layout built with pure HTML and CSS
 
--Background image for aesthetic design 
+- Background image for aesthetic design 
 
--Consistent font styling using the "Poppins" font family.
+- Consistent font styling using the "Poppins" font family.
 
--Stylish toggle buttons
+- Stylish toggle buttons
 
--Navigation links: Gallery, Shortcuts, Exhibits, Events, Store, Contact
+- Navigation links: Gallery, Shortcuts, Exhibits, Events, Store, Contact
 
--Smooth Transitions
+- Smooth Transitions
 
--Hover effects on links for better interactivity
+- Hover effects on links for better interactivity
 
--Integrated Social media icons with hover scaling and opacity transitions
+- Integrated Social media icons with hover scaling and opacity transitions
 
--Simple, lightweight, and easy to customize
+- Simple, lightweight, and easy to customize
 
 
 
